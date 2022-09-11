@@ -29,7 +29,7 @@ export default class Login extends React.Component {
         var pass=this.state.pass;
         var check=this.state.check;
         var win;
-        if (uid ==="XITIZ")
+        if (uid ==="PANKAJA")
         {
             if (pass==="12345678") 
             {
